@@ -1,5 +1,3 @@
-import string
-from pathlib import Path
 
 class AUDIO_CONFIG:
     sampling_rate = 32000
